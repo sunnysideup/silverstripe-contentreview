@@ -27,7 +27,7 @@
     "jquery": "^3.4.0",
     "react": "15.3.1",
     "react-dom": "15.3.1",
-    "react-redux": "^4.4.1",
+    "react-redux": "^9.2.0",
     "redux": "https://registry.npmjs.org/redux/-/redux-3.0.5.tgz"
   },
   "devDependencies": {
